@@ -10,3 +10,5 @@ date-released: 2026-11-20
 license: MIT
 repository-code: https://github.com/Topbrutus/polybrutus-d25
 abstract: "Exact independently verified Euclidean metric on thirty vertices, with 406 frozen parent distances preserved and chosen dimensionless graph eigenvalues."
+doi: 10.5281/zenodo.24410435
+url: https://doi.org/10.5281/zenodo.24410435

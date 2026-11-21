@@ -1,0 +1,5 @@
+# SHA-256 of three officially released Zenodo record 24410435 files
+# Source ZIP is an external tagged-source archive; the PDF and JSON also live at tag v0.1.0
+3ba3ccdd3d4ba7cd6539d9c4524dd11a34296531dc49b3e418bb448c4c586656  POLYBRUTUS_D25_SOURCE_v0.1.0_GITHUB_TAG.zip
+c84dc9e5936d54570993deebaeb9322aacfbaa1b5cd92240c9293931472efc35  publication/POLYBRUTUS_25D_NOTE.pdf
+1cad349945e85a0700906762b21c3644ee9188308098b340e99acc525cac4ffd  results/certificate_d25.json

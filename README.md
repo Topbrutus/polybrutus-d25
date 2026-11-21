@@ -23,6 +23,14 @@ python tests/independent_d25.py
 
 Both scripts print an identical SHA-256 of `results/certificate_d25.json`. The frozen predecessor source (including D24 certificate and its verification programs) is copied under `prior/d24/`.
 
+## Official DOI and final reproducibility evidence
+
+- **Zenodo DOI:** [10.5281/zenodo.24410435](https://doi.org/10.5281/zenodo.24410435); [public record](https://zenodo.org/records/24410435) with 3/3 files checked by public API.
+- **Frozen source tag:** [v0.1.0](https://github.com/Topbrutus/polybrutus-d25/tree/v0.1.0), commit `0dda9ed43622385d3e5fdddef9336458a32ed5ed`.
+- **Tag verification CI:** [GitHub Actions 44859280398](https://github.com/Topbrutus/polybrutus-d25/actions/runs/44859280398), success.
+- **Central Memoria index:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/projects/POLYBRUTUS_X72_PUBLICATIONS_INDEX.md .
+- **Permanent checkpoint:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/checkpoints/POLYBRUTUS_D25_PUBLICATION_2026-11-20.md .
+
 ## Scientific contents
 
 - [Specification](SPECIFICATION_D25.md) and [proof](PREUVE_D25.md)
